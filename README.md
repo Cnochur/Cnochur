@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
+![Banner](https://www.figma.com/file/SH2NJEGNEytZugm4T5ChQQ/README-Github-Banner-(Community)?type=design&node-id=103%3A63&mode=design&t=XxnkZXEDoAw2tyAy-1)
 
 Aspiring cyber enthusiast from Derry, Ireland, navigating the realm of technology. Passionate about web development, with a passion for Python. Excited by problem-solving and the thrill of conquering coding challenges.
 
