@@ -1,16 +1,23 @@
-### Hi there 👋
+![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
 
-<!--
-**Cnochur/Cnochur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cyber enthusiast from Derry, Ireland, navigating the realm of technology. Passionate about web development, with a passion for Python. Excited by problem-solving and the thrill of conquering coding challenges.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning all things CyberSec.
+- 🔭 I’m currently working on CompTIA A+ Core 1, CompTIA Network +.
+- 😀 I like to code, read and walk Daisy.
+- 💬 Ask me about hip-hop.
+- ⚡ Fun fact: My name is spelled wrong. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+Template From [amxchang](https://github.com/amxchang).
